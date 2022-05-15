@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Arij",
+    "phone": "+21545",
+    "salary": 600000,
+    "age": 21,
+    "departement": "IT"
+  },
+  {
+    "id": 2,
+    "name": "Me",
+    "phone": "+25633",
+    "salary": 12000,
+    "age": 25,
+    "departement": "IT"
+  },
+  {
+    "id": 3,
+    "name": "ER",
+    "phone": "+3365555",
+    "salary": 2000,
+    "age": 22,
+    "departement": "RH"
+  },
+  {
+    "id": 4,
+    "name": "RTE",
+    "phone": "+698555",
+    "salary": 44785.5,
+    "age": 34,
+    "departement": "Finance"
+  },
+  {
+    "id": 5,
+    "name": "Merlin",
+    "phone": "+66999",
+    "salary": 4478.32,
+    "age": 20,
+    "departement": "RH"
+  }
+]
